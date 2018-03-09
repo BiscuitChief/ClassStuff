@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\src\\app"
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\menu",
+    "\\src\\app\\shared"
   ],
-  "SelectedNode": "\\Local settings (.vs)",
+  "SelectedNode": "\\src\\app\\menu\\menu.component.ts",
   "PreviewInSolutionExplorer": false
 }
