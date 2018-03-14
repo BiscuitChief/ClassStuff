@@ -3,10 +3,13 @@
     "",
     "\\src",
     "\\src\\app",
-    "\\src\\app\\dishdetail",
+    "\\src\\app\\footer",
+    "\\src\\app\\header",
     "\\src\\app\\menu",
-    "\\src\\app\\shared"
+    "\\src\\app\\services",
+    "\\src\\app\\shared",
+    "\\src\\assets"
   ],
-  "SelectedNode": "\\src\\app\\dishdetail\\dishdetail.component.ts",
+  "SelectedNode": "\\src\\app\\app.component.html",
   "PreviewInSolutionExplorer": false
 }
