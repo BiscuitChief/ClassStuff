@@ -3,13 +3,16 @@
     "",
     "\\src",
     "\\src\\app",
+    "\\src\\app\\app-routing",
+    "\\src\\app\\contact",
+    "\\src\\app\\dishdetail",
     "\\src\\app\\footer",
     "\\src\\app\\header",
+    "\\src\\app\\home",
     "\\src\\app\\menu",
     "\\src\\app\\services",
-    "\\src\\app\\shared",
-    "\\src\\assets"
+    "\\src\\app\\shared"
   ],
-  "SelectedNode": "\\src\\app\\app.component.html",
+  "SelectedNode": "\\src\\app\\header\\header.component.html",
   "PreviewInSolutionExplorer": false
 }
