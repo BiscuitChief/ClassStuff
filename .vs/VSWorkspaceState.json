@@ -4,13 +4,13 @@
     "\\src",
     "\\src\\app",
     "\\src\\app\\about",
+    "\\src\\app\\contact",
     "\\src\\app\\dishdetail",
     "\\src\\app\\footer",
     "\\src\\app\\header",
     "\\src\\app\\home",
-    "\\src\\app\\login",
-    "\\src\\app\\menu"
+    "\\src\\app\\shared"
   ],
-  "SelectedNode": "\\src\\app\\app.module.ts",
+  "SelectedNode": "\\src\\app\\contact\\contact.component.html",
   "PreviewInSolutionExplorer": false
 }
