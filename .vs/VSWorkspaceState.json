@@ -6,11 +6,10 @@
     "\\src\\app\\about",
     "\\src\\app\\contact",
     "\\src\\app\\dishdetail",
-    "\\src\\app\\footer",
-    "\\src\\app\\header",
     "\\src\\app\\home",
-    "\\src\\app\\shared"
+    "\\src\\app\\menu",
+    "\\src\\app\\services"
   ],
-  "SelectedNode": "\\src\\app\\contact\\contact.component.html",
+  "SelectedNode": "\\src\\app\\menu\\menu.component.html",
   "PreviewInSolutionExplorer": false
 }
