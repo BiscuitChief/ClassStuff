@@ -10,6 +10,6 @@
     "\\src\\app\\menu",
     "\\src\\app\\services"
   ],
-  "SelectedNode": "\\src\\app\\menu\\menu.component.html",
+  "SelectedNode": "\\src\\app\\dishdetail\\dishdetail.component.ts",
   "PreviewInSolutionExplorer": false
 }
