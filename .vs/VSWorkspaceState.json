@@ -3,9 +3,10 @@
     "",
     "\\src",
     "\\src\\app",
+    "\\src\\app\\contact",
     "\\src\\app\\dishdetail",
     "\\src\\app\\services"
   ],
-  "SelectedNode": "\\src\\app\\dishdetail\\dishdetail.component.html",
+  "SelectedNode": "\\src\\app\\contact\\contact.component.html",
   "PreviewInSolutionExplorer": false
 }
