@@ -5,7 +5,8 @@
     "\\src\\app",
     "\\src\\app\\contact",
     "\\src\\app\\dishdetail",
-    "\\src\\app\\services"
+    "\\src\\app\\services",
+    "\\src\\app\\shared"
   ],
   "SelectedNode": "\\src\\app\\contact\\contact.component.html",
   "PreviewInSolutionExplorer": false
