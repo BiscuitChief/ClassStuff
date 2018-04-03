@@ -7,6 +7,7 @@ import { FormsModule } from '@angular/forms';
 import { ReactiveFormsModule } from '@angular/forms';
 import { HttpModule } from '@angular/http';
 import 'hammerjs';
+import { RestangularModule, Restangular } from 'ngx-restangular';
 
 import { AppRoutingModule } from './app-routing/app-routing.module';
 
@@ -25,6 +26,7 @@ import { PromotionService } from './services/promotion.service';
 import { LeaderService } from './services/leader.service';
 import { ProcessHTTPMsgService } from './services/process-httpmsg.service';
 import { baseURL } from './shared/baseurl';
+import { RestangularConfigFactory } from './shared/restConfig';
 
 @NgModule({
   declarations: [
@@ -46,7 +48,8 @@ import { baseURL } from './shared/baseurl';
     AppRoutingModule,
     FormsModule,
     ReactiveFormsModule,
-    HttpModule
+    HttpModule,
+    RestangularModule.forRoot(RestangularConfigFactory)
   ],
   providers: [
     DishService,
