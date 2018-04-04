@@ -56,7 +56,7 @@
     </md-card>
   </div>
 
-  <div fxFlex="40" *ngIf="leaders">
+  <div fxFlex="40" *ngIf="leaders" [@expand]>
     <md-list fxFlex>
       <h2>Corporate Leadership</h2>
       <md-list-item *ngFor="let leader of leaders">
